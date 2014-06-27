@@ -1,0 +1,10 @@
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Form1.resources
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Properties.Resources.resources
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Form2.resources
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\bin\Debug\SuperSambaSommerTippspiel.exe
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\bin\Debug\SuperSambaSommerTippspiel.pdb
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.exe
+H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.pdb
