@@ -8,3 +8,16 @@ H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\bin\Debug\Su
 H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\bin\Debug\SuperSambaSommerTippspiel.pdb
 H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.exe
 H:\2LJ\SAE\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.pdb
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.exe
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.pdb
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\bin\Debug\SuperSambaSommerTippspiel.exe
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\bin\Debug\SuperSambaSommerTippspiel.pdb
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Form1.resources
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Form2.resources
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Properties.Resources.resources
+C:\Users\Dani\Desktop\sae projekt\SSST\SSST\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.csproj.GenerateResource.Cache
+C:\Users\Dani\Documents\GitHub\SAEProjektGitHub\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.exe
+C:\Users\Dani\Documents\GitHub\SAEProjektGitHub\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.pdb
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.exe
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.pdb
