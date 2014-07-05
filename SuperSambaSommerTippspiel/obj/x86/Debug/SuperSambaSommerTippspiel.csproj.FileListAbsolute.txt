@@ -21,3 +21,10 @@ C:\Users\Dani\Documents\GitHub\SAEProjektGitHub\SuperSambaSommerTippspiel\SuperS
 C:\Users\Dani\Documents\GitHub\SAEProjektGitHub\SuperSambaSommerTippspiel\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.pdb
 D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.exe
 D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.pdb
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\bin\Debug\SuperSambaSommerTippspiel.exe
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\bin\Debug\SuperSambaSommerTippspiel.pdb
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.csprojResolveAssemblyReference.cache
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Form1.resources
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Form2.resources
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.Properties.Resources.resources
+D:\Eigene Dateien\Documents\GitHub\SSST\SuperSambaSommerTippspiel\obj\x86\Debug\SuperSambaSommerTippspiel.csproj.GenerateResource.Cache

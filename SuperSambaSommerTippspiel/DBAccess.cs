@@ -20,7 +20,7 @@ namespace SuperSambaSommerTippspiel
             
         }
         private void Connect() {
-            this.connection = new OleDbConnection(@"Provider=Microsoft.Ace.OLEDB.12.0;Data Source=T:\Klassen\e2fi2t\SAE\Tippspiel_SSS\SSSDB.accdb");
+            this.connection = new OleDbConnection(@"Provider=Microsoft.Ace.OLEDB.12.0;Data Source=D:\Eigene Dateien\Documents\GitHub\SSST\SSSDB.accdb");
             this.connection.Open();
             this.command = new OleDbCommand();
             this.command.Connection = this.connection;
