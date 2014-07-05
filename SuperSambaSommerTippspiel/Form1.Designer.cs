@@ -44,7 +44,7 @@
             this.label1.Location = new System.Drawing.Point(409, 94);
             this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 20);
+            this.label1.Size = new System.Drawing.Size(56, 21);
             this.label1.TabIndex = 0;
             this.label1.Text = "Name";
             // 
@@ -55,7 +55,7 @@
             this.label2.Location = new System.Drawing.Point(399, 158);
             this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(77, 20);
+            this.label2.Size = new System.Drawing.Size(78, 21);
             this.label2.TabIndex = 1;
             this.label2.Text = "Passwort";
             // 
@@ -76,6 +76,7 @@
             this.tb_Pw.Name = "tb_Pw";
             this.tb_Pw.Size = new System.Drawing.Size(164, 28);
             this.tb_Pw.TabIndex = 3;
+            this.tb_Pw.UseSystemPasswordChar = true;
             // 
             // btn_Anmelden
             // 
@@ -108,7 +109,7 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(793, 595);

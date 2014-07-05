@@ -18,17 +18,41 @@ namespace SuperSambaSommerTippspiel
             InitializeComponent();
 
             this.id = id;
+            DBAccess datenbank = new DBAccess();
+            Spielplan spielplan = new Spielplan();
+
+            int[][] gruppe = new int[8][];
+            Array[][] gruppenSpiele = new Array[6][];
+            
+            for(int i = 0; i < gruppe.Length; i++)
+            {
+                gruppe[i] = datenbank.getGruppe(i);
+                spielplan.setGruppe(gruppe[i]);
+            }
+
+            for(int j = 0; j < gruppe.Length; j++)
+            {
+
+            }
         }
 
         private void btn_Close_Click(object sender, EventArgs e)
         {
             this.Close();
+
             Panel assd = new Panel();
             
             Label asd = new Label();
             
             asd.Name = "asd";
-            asd.Location = new System.Drawing.Point(10, 10);
+            asd.Location = new System.Drawing.Point(10,10);
         }
+
+        private void tab ()
+        {
+
+        }
+
+        
     }
 }
