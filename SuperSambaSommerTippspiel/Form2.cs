@@ -22,12 +22,12 @@ namespace SuperSambaSommerTippspiel
             Spielplan spielplan = new Spielplan();
 
             int[][] gruppe = new int[8][];
-            Array[][] gruppenSpiele = new Array[6][];
+            Array[][] gruppenSpiele = new Array[8][];
             
-            for(int i = 0; i < gruppe.Length; i++)
+            for(int i = 1; i <= gruppe.Length; i++)
             {
                 gruppe[i] = datenbank.getGruppe(i);
-                spielplan.setGruppe(gruppe[i]);
+                gruppenSpiele[i] = spielplan.setGruppe(gruppe[i]);
             }
 
             for(int j = 0; j < gruppe.Length; j++)

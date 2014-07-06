@@ -32,17 +32,20 @@ namespace SuperSambaSommerTippspiel
         }
 
         public int anmelden(string name, string pw) {
-            
+
             this.connect();
+            int id = -1;
             pw = pw.GetHashCode().ToString();
+            
             this.command.CommandText = "SELECT T_ID FROM Teilnehmer WHERE T_Name = '" + name + "' AND Passwort = '" + pw + "'";
             this.reader = this.command.ExecuteReader();
-            int id= -1;
+
             if (this.reader.HasRows)
             {
                 this.reader.Read();
                 id = this.reader.GetInt32(0); 
             }
+
             this.disconnect();
             return id;
         }
@@ -53,8 +56,10 @@ namespace SuperSambaSommerTippspiel
             {
                 this.connect();
                 pw = pw.GetHashCode().ToString();
+
                 this.command.CommandText = "INSERT INTO Teilnehmer(T_Name, Passwort) VALUES('" + name + "', '" + pw + "')";
                 this.command.ExecuteReader();
+
                 this.disconnect();
                 return true;
             }
@@ -71,7 +76,9 @@ namespace SuperSambaSommerTippspiel
             this.connect();
 
             this.command.CommandText = "SELECT M_ID1, M_ID2, M_ID3, M_ID4 FROM Gruppe WHERE G_ID = " + gruppenID;
-            this.command.ExecuteReader();
+            this.reader = this.command.ExecuteReader();
+
+            this.reader.Read();
 
             for (int i = 0; i < gruppe.Length; i++)
             {
